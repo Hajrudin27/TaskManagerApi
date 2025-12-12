@@ -1,0 +1,6 @@
+@TMAPI_HostAddress = http://localhost:5090
+
+GET {{TMAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
